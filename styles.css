@@ -1,0 +1,24 @@
+/* styles.css */
+body {
+    color: #c26b0e; 
+    margin: 40px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #ffffe4;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p { 
+
+    color: #ffffe4; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+
+    color: #ffffe4; 
+    font-family: 'Courier New', Courier, monospace;
+}
